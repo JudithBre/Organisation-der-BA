@@ -39,6 +39,8 @@ Am Ende eines jeden Sprints findet ein Sprint Review statt, um den Betreuenden N
 Im Anschluss an jeden Sprint und nach dem Feedback wird das Product Backlog an den aktuellen Fortschritt angepasst. <br>
 Wenn zusätzliche Ideen/Tasks während eines Sprints aufkommen, gelangen diese zunächst in das Product Backlog. Es sei denn es ist extrem wichtig/eilig, dass die Idee oder der Task bearbeitet wird, dann gelangt dieser in den Sprint Backlog.
 
+## Projektcontrolling
+
 ## Datensicherung
 Findet über die [Hochschulcloud sciebo](https://www.hochschulcloud.nrw/) statt.
 
