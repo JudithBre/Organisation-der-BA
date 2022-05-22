@@ -40,6 +40,17 @@ Im Anschluss an jeden Sprint und nach dem Feedback wird das Product Backlog an d
 Wenn zusätzliche Ideen/Tasks während eines Sprints aufkommen, gelangen diese zunächst in das Product Backlog. Es sei denn es ist extrem wichtig/eilig, dass die Idee oder der Task bearbeitet wird, dann gelangt dieser in den Sprint Backlog.
 
 ## Projektcontrolling
+Die Dokumentation der Ergebnisse des Projektcontrollings werden in einem Projektstatusbericht festgehalten.
+### Controlling-Zyklus:
+- jede Woche (immer sonntags) wird der Projektstrukturplan und das Gantt-Diagramm an den aktuellen Fortschritt angepasst
+- vor jedem Treffen mit den Betreuenden findet ein Soll-Ist-Vergleich statt
+- die Frage danach, ob ich mich noch im Zeitplan befinde, muss zu jeder Zeit beantwortbar sein
+### Was wird beim Soll-Ist-Vergleich betrachtet:
+- Leistungsfortschritt im Projekt (Arbeitspakete laut Projektstrukturplan)
+- Qualität der Leistung
+- Termine und Meilensteine
+
+Mehr Informationen zum Projektcontrolling sind im [Issue](JudithBre/Organisation-der-BA#11) zu finden.
 
 ## Datensicherung
 Findet über die [Hochschulcloud sciebo](https://www.hochschulcloud.nrw/) statt.
