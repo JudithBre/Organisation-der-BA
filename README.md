@@ -1,4 +1,4 @@
-## Ein Repository zur Organisation meiner Bachelorarbeit
+# Ein Repository zur Organisation meiner Bachelorarbeit
 
 Dieses Repository unterstützt mich in der Planung und Durchführung meiner Bachelorarbeit. <br>
 Die Betreuenden können meinen aktuellen Stand jederzeit und ortsunabhängig einsehen.
