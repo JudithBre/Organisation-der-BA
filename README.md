@@ -57,3 +57,6 @@ Findet über die [Hochschulcloud sciebo](https://www.hochschulcloud.nrw/) statt.
 
 ## Das Schreiben der Bachelorarbeit
 Erfolgt mit dem Textsatzprogramm [LaTeX](https://www.latex-project.org/).
+
+## Literaturverwaltung
+Für die Literaturverwaltung wird [Citavi](https://www.citavi.com/de) genutzt.
