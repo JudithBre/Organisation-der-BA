@@ -34,6 +34,7 @@ Unter Projects wurde ein Kanban Board erstellt: https://github.com/JudithBre/Org
 Die Studierende übernimmt in ihrer Bachelorarbeit die drei Scrum-Rollen: Scrum Master, Product Owner und Developer. <br>
 Das Product Backlog umfasst alle Arbeitspakete (siehe Abschnitt Issues & Meilensteine). <br>
 Im jeweiligen Sprint Planning am Anfang jedes zweiwöchigen Sprints wird festgelegt, welche Arbeitspakete in das Sprint Backlog gelangen. Diese ausgewählten Arbeitspakete werden in einem weiteren Schritt dann in ausführbare Tätigkeiten heruntergebrochen. <br>
+Die Sprint-Retrospektive findet am Ende eines Sprints statt, um die eigenen Arbeitsprozesse zu hinterfragen, zu analysieren und ggf. zu optimieren. <br>
 Am Ende eines jeden Sprints findet ein Sprint Review statt, um den Betreuenden Neuerungen vorzustellen und ein Feedback einzuholen. <br>
 Im Anschluss an jeden Sprint und nach dem Feedback wird das Product Backlog an den aktuellen Fortschritt angepasst. <br>
 Wenn zusätzliche Ideen/Tasks während eines Sprints aufkommen, gelangen diese zunächst in das Product Backlog. Es sei denn es ist extrem wichtig/eilig, dass die Idee oder der Task bearbeitet wird, dann gelangt dieser in den Sprint Backlog.
