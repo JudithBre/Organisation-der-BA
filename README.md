@@ -50,7 +50,7 @@ Die Dokumentation der Ergebnisse des Projektcontrollings werden in einem Projekt
 - Qualität der Leistung
 - Termine und Meilensteine
 
-Mehr Informationen zum Projektcontrolling sind in diesem [Issue]([JudithBre/Organisation-der-BA#11](https://github.com/JudithBre/Organisation-der-BA/issues/11) zu finden.
+Mehr Informationen zum Projektcontrolling sind unter https://github.com/JudithBre/Organisation-der-BA/issues/11 zu finden.
 
 ## Datensicherung
 Findet über die [Hochschulcloud sciebo](https://www.hochschulcloud.nrw/) statt.
