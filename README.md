@@ -25,3 +25,6 @@ Das Product Backlog umfasst alle Arbeitspakete. <br>
 Im jeweiligen Sprint Planning am Anfang jedes zweiwöchigen Sprints wird festgelegt, welche Arbeitspakete in das Sprint Backlog gelangen. Diese ausgewählten Arbeitspakete werden in einem weiteren Schritt dann in ausführbare Tätigkeiten heruntergebrochen. <br>
 Am Ende eines jeden Sprints findet ein Sprint Review statt, um den Betreuenden Neuerungen vorzustellen und ein Feedback einzuholen. <br>
 Im Anschluss an jeden Sprint und nach dem Feedback wird das Product Backlog an den aktuellen Fortschritt angepasst. <br>
+
+## Datensicherung
+[Findet über die Hochschulcloud sciebo statt](https://www.hochschulcloud.nrw/).
