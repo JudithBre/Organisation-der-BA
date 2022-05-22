@@ -28,3 +28,6 @@ Im Anschluss an jeden Sprint und nach dem Feedback wird das Product Backlog an d
 
 ## Datensicherung
 [Findet über die Hochschulcloud sciebo statt](https://www.hochschulcloud.nrw/).
+
+## Das Schreiben der Bachelorarbeit
+Erfolgt mit dem Textsatzprogramm [LaTeX](https://www.latex-project.org/).
