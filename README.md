@@ -13,7 +13,7 @@ Dabei gibt es die folgenden 5 Phasen.<br>
  - 5 Abschlussphase<br>
  
 In jeder Phase werden Arbeitspakete gebildet. <br>
-Die Arbeitspakete sind als Storys unter https://github.com/JudithBre/Organisation-der-BA/issues zu finden. <br>
+Die Arbeitspakete sind als Storys unter https://github.com/JudithBre/Organisation-der-BA/issues?q=is%3Aissue+is%3Aopen+label%3AStory zu finden. <br>
 Darüber hinaus wurden Meilensteine festgelegt (https://github.com/JudithBre/Organisation-der-BA/milestones) und Arbeitspakete den Meilensteinen zugeordnet. Dies unterstützt mich im Projektcontrolling. <br>
 
 ## Kanban Board
