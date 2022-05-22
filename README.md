@@ -1,1 +1,1 @@
-# Organisation-der-BA
+# Ein Repository zur Organisation meiner Bachelorarbeit
