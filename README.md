@@ -20,6 +20,17 @@ Darüber hinaus wurden Meilensteine festgelegt (https://github.com/JudithBre/Org
 Unter Projects wurde ein Kanban Board erstellt: https://github.com/JudithBre/Organisation-der-BA/projects
 
 ## Scrum
+### Welche Scrum-Artefakte finden Verwendung:
+- Product Backlog
+- Sprint Backlog
+
+### Welche Scrum-Events finden statt:
+- 2 wöchige Sprints
+- Sprint Planning
+- Sprint Review
+- Sprint-Retrospektive 
+
+### Wie wird Scrum konkret eingesetzt?
 Die Studierende übernimmt in ihrer Bachelorarbeit die drei Scrum-Rollen: Scrum Master, Product Owner und Developer. <br>
 Das Product Backlog umfasst alle Arbeitspakete. <br>
 Im jeweiligen Sprint Planning am Anfang jedes zweiwöchigen Sprints wird festgelegt, welche Arbeitspakete in das Sprint Backlog gelangen. Diese ausgewählten Arbeitspakete werden in einem weiteren Schritt dann in ausführbare Tätigkeiten heruntergebrochen. <br>
