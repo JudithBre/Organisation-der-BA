@@ -27,7 +27,7 @@ Am Ende eines jeden Sprints findet ein Sprint Review statt, um den Betreuenden N
 Im Anschluss an jeden Sprint und nach dem Feedback wird das Product Backlog an den aktuellen Fortschritt angepasst. <br>
 
 ## Datensicherung
-[Findet über die Hochschulcloud sciebo statt](https://www.hochschulcloud.nrw/).
+Findet über die [Hochschulcloud sciebo](https://www.hochschulcloud.nrw/) statt.
 
 ## Das Schreiben der Bachelorarbeit
 Erfolgt mit dem Textsatzprogramm [LaTeX](https://www.latex-project.org/).
